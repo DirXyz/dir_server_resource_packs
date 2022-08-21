@@ -1,1 +1,1 @@
-![yellow_dream](https://github.com/DirXyz/DirXyz.github.io/blob/main/skin/yellow_dream.png)
+![yellow_dream](https://dirxyz.github.io/skin/yellow_dream.png)
